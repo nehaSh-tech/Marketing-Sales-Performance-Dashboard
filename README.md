@@ -119,6 +119,9 @@ Helps in pricing adjustments based on demand trends.
 Monthly earnings trends help in predicting future sales.
 
 Marketing success rates guide budget allocation for maximum ROI.
+![Screenshot 2025-04-01 161031](https://github.com/user-attachments/assets/d22781fd-da1b-4e3d-b281-809017e30192)
+
+
 
 Final Thoughts
 This dashboard is a powerful tool for tracking performance, making data-driven decisions, and improving sales & marketing strategies. By continuously updating and refining this dashboard, you can ensure sustained business growth and profitability. 🚀
